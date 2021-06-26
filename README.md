@@ -19,7 +19,7 @@ Funciona como un centro de entretenimiento, conocimiento o comunidad dependiendo
 - Permite apoyar a los creadores de contenido mediante una suscripción o un donativo.
 
 ## Estrategia
-Aumentar el engagement de los usuarios en la plataforma para lograr un mayor número de interacciones por parte de los usuarios y alcanzar una mayor competitividad frente a otras plataformas.
+Aumentar el engagement de los usuarios en la plataforma para lograr un mayor número de interacciones por parte de los usuarios y alcanzar poblacion de usuarios con alguna discapacidad logrando **una mayor competitividad frente a otras plataformas**.(esta parte en engrita suena como raro, intentemos agregar a las personas cn discapacidad fisica (sin extremidades o visual) a el grupo de personas que queremos llegar)
 
 ### Experiencia 11 estrellas para la creación de propuestas ⭐
 - **1 estrellas:** No me reproduce ningún video, se cierra sola la aplicación y tiene tiempos gigantescos de reacción.
@@ -53,3 +53,34 @@ Aumentar el engagement de los usuarios en la plataforma para lograr un mayor nú
 - **Aprovechamiento de temas del video para anuncios en el navegador:** Personalizar anuncios en los videos de forma que estos se encuentren en una sección debajo del reproductor y a medida que avanza el video aparezcan anuncios relacionados con las etiquetas del video para que sean menos intrusivos para el usuario, con esto se busca reducir el número de usuarios que abandonan la plataforma al comienzo o a la mitad del video.
 
 - **Contenido original:** Desarrollar y mejorar el contenido original de la plataforma creando series en colaboración con estudios, buscando contenido atractivo para que los usuarios acostumbrados con este formato permanezcan más en la plataforma. 
+
+
+### De tu producto, ¿cuál es el Job to be done?
+Youtube te permite acceder a información en forma de contenido audiovisual de manera rapida, para darle el uso que necesites en el momento, ya sea como medio de entretenimiento, educativo, informativo o de comunidad intercambiando pensamientos y opiniones con otros usuarios.
+
+### De acuerdo a "Imperfect is perfect" ¿Cómo vas a lanzar las propuestas de feature de 7 estrellas establecida en tu plan?. Describe la estrategia a implementar.
+
+**Justificación:** Decidimos tomar el feature de 8 estrellas ya que este se alinea con la mision de la empresa, permitiendonos no solo innovar en el producto sino tambien extenderlo a una poblacion de usuarios más grande. (Falta argumentar un poco al final, ahi me quede corto) 
+
+## Product Strategy Stack 
+- **Mision de la compañia:** Brindarles a todas las personas la oportunidad de expresarse y ver el mundo, basandonos en la idea de que el mundo es un lugar mejor cuando nos escuchamos, compartimos y desarrollamos una comunidad mediante nuestras historias.
+- **Estrategia de la compañia:** Crear una plataforma de contenido audiovisual, que permita a los usuarios interactuar entre ellos de forma más amena, siendo el video el principal medio de transmisión.
+- **Estrategia del producto:**
+- **Hoja de ruta del producto:**
+- **Objetivos del producto:**
+
+## Estrategia del feature de 8 Estrellas 
+**Paso 1:** Diseñar y crear boton al lado del buscador de Youtube tanto en Desktop como mobile, que permita la activación y desactivación de una funcionalidad de escucha activa, de forma que al decir un comando de voz especifico, este reaccione ejecutando acciones sencillas que le indiquemos como:
+- Reproducir/pausar video.
+- Buscar X canción.
+- Reproducir X canción.
+
+**Paso 2:** Recolectar información en un dataset sobre los comandos que con mayor frecuencia le dicen los usuarios, de que manera lo dicen y cuales comandos no disponibles le piden.
+
+**Paso 3:** Mejorar funcionalidades actuales de forma que sea más intuitivo su uso para los usuarios, basandonos en la información recolectada.
+
+**Paso 4:** Crear e integrar funcionalidades nuevas basadas en la información recolectada y nuevos features como recordatorios sobre videos el usuario desea ver.
+
+**Paso 5:** Crear funcionalidad que le permita al usuario personalizar comandos de voz con acciones especificas.
+
+**Paso 6:** Integrar el servicio a otros dispositivos.
