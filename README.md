@@ -45,7 +45,6 @@ Aumentar el engagement de los usuarios en la plataforma para lograr un mayor nú
 - **11 estrellas:** Asociación con openIA que me permita tener experiencias de inmersión en el contenido que desee ver. 
 
 ### Propuestas
-
 - **Modificación de modelo de monetización:** Contactar con marcas que deseen patrocinar a los creadores de contenido para crear convenios o contratos laborales con el fin de que los anuncios estén dentro del contenido del creador. Esta propuesta nace con el fin de reducir la cantidad de anuncios actuales en la plataforma, además de generar anuncios menos invasivos y aprovechar el engagement del contenido.
 
 - **Asociación de Asistente de Google a la plataforma:** Integrar el asistente de voz de Google dentro de Youtube el cual funcione tanto en Desktop como Mobile, de forma que para utilizarlo solo debamos oprimir un botón flotante o un comando de voz que facilite la interacción del usuario con la plataforma, aumentando las opciones de accesibilidad y llegando a un grupo de usuarios.
@@ -54,20 +53,28 @@ Aumentar el engagement de los usuarios en la plataforma para lograr un mayor nú
 
 - **Contenido original:** Desarrollar y mejorar el contenido original de la plataforma creando series en colaboración con estudios, buscando contenido atractivo para que los usuarios acostumbrados con este formato permanezcan más en la plataforma. 
 
-
+---
 ### De tu producto, ¿cuál es el Job to be done?
 Youtube te permite acceder a información en forma de contenido audiovisual de manera rapida, para darle el uso que necesites en el momento, ya sea como medio de entretenimiento, educativo, informativo o de comunidad intercambiando pensamientos y opiniones con otros usuarios.
 
 ### De acuerdo a "Imperfect is perfect" ¿Cómo vas a lanzar las propuestas de feature de 7 estrellas establecida en tu plan?. Describe la estrategia a implementar.
 
-**Justificación:** Decidimos tomar el feature de 8 estrellas ya que este se alinea con la mision de la empresa, permitiendonos no solo innovar en el producto sino tambien extenderlo a una poblacion de usuarios más grande. (Falta argumentar un poco al final, ahi me quede corto) 
+**Justificación:** Decidimos tomar el feature de 8 estrellas ya que este se alinea con la mision de la empresa, permitiendonos no solo innovar en el producto sino tambien extenderlo a una poblacion de usuarios más grande. Adicionalmente en la actualidad la llegada del 5G junto con el constante cambio de dispositivos móviles por parte de los usuarios haría que el desarrollo de esta funcionalidad fuese en vano.
 
 ## Product Strategy Stack 
-- **Mision de la compañia:** Brindarles a todas las personas la oportunidad de expresarse y ver el mundo, basandonos en la idea de que el mundo es un lugar mejor cuando nos escuchamos, compartimos y desarrollamos una comunidad mediante nuestras historias.
-- **Estrategia de la compañia:** Crear una plataforma de contenido audiovisual, que permita a los usuarios interactuar entre ellos de forma más amena, siendo el video el principal medio de transmisión.
-- **Estrategia del producto:**
+- **Misión de la compañía:**
+  - Brindarles a todas las personas la oportunidad de expresarse y ver el mundo, basándonos en la idea de que el mundo es un lugar mejor cuando nos escuchamos, compartimos y desarrollamos una comunidad mediante nuestras historias.(Obtenido de https://www.youtube.com/intl/es-419/about/#:~:text=Nuestra%20misi%C3%B3n%20es%20brindarles%20a,una%20comunidad%20mediante%20nuestras%20historias.) 
+- **Estrategia de la compañía:** 
+  - Crear una plataforma de contenido audiovisual, que permita a los usuarios interactuar entre ellos de forma más amena, siendo el video el principal medio de transmisión.
+- **Estrategia del producto:** 
+
+  - Desarrollar un algoritmo de recomendación que permita a los usuarios conocer el contenido de creadores distintos a los que acostumbra a ver, con la intención de hacer crecer las comunidades dentro de la plataforma.
+  - Integrar funcionalidades que mantengan a los usuarios dentro de la plataforma más tiempo, por ejemplo dado el aumento de los videos cortos se creó el feature de Youtube Shorts, videos con el mismo formato de los de Tik Tok
 - **Hoja de ruta del producto:**
 - **Objetivos del producto:**
+  - tiempo de visualización de los usuarios dentro de la plataforma
+  - número de usuarios 
+
 
 ## Estrategia del feature de 8 Estrellas 
 **Paso 1:** Diseñar y crear boton al lado del buscador de Youtube tanto en Desktop como mobile, que permita la activación y desactivación de una funcionalidad de escucha activa, de forma que al decir un comando de voz especifico, este reaccione ejecutando acciones sencillas que le indiquemos como:
