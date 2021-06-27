@@ -19,7 +19,7 @@ Funciona como un centro de entretenimiento, conocimiento o comunidad dependiendo
 - Permite apoyar a los creadores de contenido mediante una suscripción o un donativo.
 
 ## Estrategia
-Aumentar el engagement de los usuarios en la plataforma para lograr un mayor número de interacciones por parte de los usuarios y alcanzar poblacion de usuarios con alguna discapacidad logrando **una mayor competitividad frente a otras plataformas**.(esta parte en engrita suena como raro, intentemos agregar a las personas cn discapacidad fisica (sin extremidades o visual) a el grupo de personas que queremos llegar)
+Aumentar el engagement de los usuarios en la plataforma para lograr un mayor número de interacciones y expandir la poblacion de usuarios incluyendo personas con alguna discapacidad visual logrando una mayor competitividad frente a otras plataformas.
 
 ### Experiencia 11 estrellas para la creación de propuestas ⭐
 - **1 estrellas:** No me reproduce ningún video, se cierra sola la aplicación y tiene tiempos gigantescos de reacción.
@@ -55,39 +55,46 @@ Aumentar el engagement de los usuarios en la plataforma para lograr un mayor nú
 
 ---
 ### De tu producto, ¿cuál es el Job to be done?
-Youtube te permite acceder a información en forma de contenido audiovisual de manera rapida, para darle el uso que necesites en el momento, ya sea como medio de entretenimiento, educativo, informativo o de comunidad intercambiando pensamientos y opiniones con otros usuarios.
+Youtube te permite acceder a información en forma de contenido audiovisual de manera rápida, para darle el uso que necesites en el momento, ya sea como medio de entretenimiento, educativo, informativo o de comunidad intercambiando pensamientos y opiniones con otros usuarios.
 
 ### De acuerdo a "Imperfect is perfect" ¿Cómo vas a lanzar las propuestas de feature de 7 estrellas establecida en tu plan?. Describe la estrategia a implementar.
 
-**Justificación:** Decidimos tomar el feature de 8 estrellas ya que este se alinea con la mision de la empresa, permitiendonos no solo innovar en el producto sino tambien extenderlo a una poblacion de usuarios más grande. Adicionalmente en la actualidad la llegada del 5G junto con el constante cambio de dispositivos móviles por parte de los usuarios haría que el desarrollo de esta funcionalidad fuese en vano.
+**Justificación:** Decidimos tomar el feature de 8 estrellas, ya que este se alinea con la misión de la empresa, permitiéndonos no solo innovar en el producto, sino también extenderlo a una población de usuarios más grande como las personas con discapacidad visual. Adicionalmente en la actualidad, la llegada del 5G, junto con el constante cambio de dispositivos móviles para adaptarse a estas nuevas tecnologías haría que el desarrollo de esta funcionalidad se convirtiese en un caso de sobreingeniería.
 
 ## Product Strategy Stack 
 - **Misión de la compañía:**
-  - Brindarles a todas las personas la oportunidad de expresarse y ver el mundo, basándonos en la idea de que el mundo es un lugar mejor cuando nos escuchamos, compartimos y desarrollamos una comunidad mediante nuestras historias.(Obtenido de https://www.youtube.com/intl/es-419/about/#:~:text=Nuestra%20misi%C3%B3n%20es%20brindarles%20a,una%20comunidad%20mediante%20nuestras%20historias.) 
+  - Brindarles a todas las personas la oportunidad de expresarse y ver el mundo, basándonos en la idea de que el mundo es un lugar mejor cuando nos escuchamos, compartimos y desarrollamos una comunidad mediante nuestras historias.
+
 - **Estrategia de la compañía:** 
   - Crear una plataforma de contenido audiovisual, que permita a los usuarios interactuar entre ellos de forma más amena, siendo el video el principal medio de transmisión.
-- **Estrategia del producto:** 
 
-  - Desarrollar un algoritmo de recomendación que permita a los usuarios conocer el contenido de creadores distintos a los que acostumbra a ver, con la intención de hacer crecer las comunidades dentro de la plataforma.
-  - Integrar funcionalidades que mantengan a los usuarios dentro de la plataforma más tiempo, por ejemplo dado el aumento de los videos cortos se creó el feature de Youtube Shorts, videos con el mismo formato de los de Tik Tok
+- **Estrategia del producto:** 
+  - Permitir a los usuario crear contenido audiovisual, para ser distribuido en la plataforma de manera el creador pueda conectar con otros usuarios que posean intereses similares e interactue con ellos, ya sea por comentarios o subiendo contenido a la plataforma y asi lograr el crecimiento de la comunidad.  
+
 - **Hoja de ruta del producto:**
+  - Diseñar una funcionalidad que permita a un usuario subir contenido audiovisual de forma sencilla.
+  - Desarrollar un sistema de recomendación que permita a los usuarios conocer el contenido de creadores dentro de la plataforma.
+  - Interacciones significativas entre usuarios.
+  - Dar a conocer al usuario tematicas diferentes a los gustos habituales permitiendole encontrar nuevas comunidades de interes.
 - **Objetivos del producto:**
-  - tiempo de visualización de los usuarios dentro de la plataforma
-  - número de usuarios 
+  - Los usuarios ven Youtube como la  principal plataforma de entretenimiento, educacion, informacion o comunidad.
+  - Aumentar la tasa de engagement de los usuarios trimestralmente. 
+  - Aumentar y mantener el tiempo dentro de la plataforma de los usuarios.
+  - Diversificación de contenido en la plataforma.  
 
 
 ## Estrategia del feature de 8 Estrellas 
-**Paso 1:** Diseñar y crear boton al lado del buscador de Youtube tanto en Desktop como mobile, que permita la activación y desactivación de una funcionalidad de escucha activa, de forma que al decir un comando de voz especifico, este reaccione ejecutando acciones sencillas que le indiquemos como:
+**Paso 1:** Diseñar y crear botón al lado del buscador de Youtube tanto en Desktop como mobile, que permita la activación y desactivación de una funcionalidad de escucha activa, de forma que al decir un comando de voz especifico, este reaccione ejecutando acciones sencillas que le indiquemos como:
 - Reproducir/pausar video.
 - Buscar X canción.
 - Reproducir X canción.
 
-**Paso 2:** Recolectar información en un dataset sobre los comandos que con mayor frecuencia le dicen los usuarios, de que manera lo dicen y cuales comandos no disponibles le piden.
+**Paso 2:** Recolectar información en un dataset sobre los comandos que con mayor frecuencia dicen los usuarios, de qué manera lo dicen y cuáles comandos no disponibles le piden.
 
-**Paso 3:** Mejorar funcionalidades actuales de forma que sea más intuitivo su uso para los usuarios, basandonos en la información recolectada.
+**Paso 3:** Mejorar funcionalidades actuales de forma que sea más intuitivo su uso para los usuarios, basándonos en la información recolectada.
 
-**Paso 4:** Crear e integrar funcionalidades nuevas basadas en la información recolectada y nuevos features como recordatorios sobre videos el usuario desea ver.
+**Paso 4:** Crear e integrar funcionalidades nuevas basadas en la información recolectada y nuevos features como recordatorios sobre videos que el usuario desea ver.
 
-**Paso 5:** Crear funcionalidad que le permita al usuario personalizar comandos de voz con acciones especificas.
+**Paso 5:** Crear funcionalidad que le permita al usuario personalizar comandos de voz con acciones específicas.
 
 **Paso 6:** Integrar el servicio a otros dispositivos.
